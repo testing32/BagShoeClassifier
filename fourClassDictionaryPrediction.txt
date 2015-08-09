@@ -1,0 +1,47 @@
+Wrong:
+bags_clutch_200		predicted to be: bags_hobo
+womens_pumps_1		predicted to be: womens_flats
+womens_flats_800	predicted to be: women_pumps
+womens_flats_700	predicted to be: women_pumps
+
+All:
+bags_clutch_200		predicted to be: bags_hobo
+bags_clutch_700		predicted to be: bags_clutch
+womens_flats_300	predicted to be: womens_flats
+bags_clutch_600		predicted to be: bags_clutch
+womens_pumps_1		predicted to be: womens_flats
+womens_pumps_500	predicted to be: women_pumps
+womens_flats_200	predicted to be: womens_flats
+bags_hobo_700		predicted to be: bags_hobo
+bags_hobo_100		predicted to be: bags_hobo
+bags_hobo_400		predicted to be: bags_hobo
+bags_hobo_800		predicted to be: bags_hobo
+bags_clutch_100		predicted to be: bags_clutch
+womens_flats_400	predicted to be: womens_flats
+womens_pumps_900	predicted to be: women_pumps
+bags_hobo_900		predicted to be: bags_hobo
+bags_clutch_800		predicted to be: bags_clutch
+bags_clutch_300		predicted to be: bags_clutch
+womens_flats_100	predicted to be: womens_flats
+womens_flats_800	predicted to be: women_pumps
+bags_hobo_200		predicted to be: bags_hobo
+womens_flats_700	predicted to be: women_pumps
+womens_flats_600	predicted to be: womens_flats
+womens_flats_900	predicted to be: womens_flats
+bags_hobo_600		predicted to be: bags_hobo
+bags_clutch_400		predicted to be: bags_clutch
+bags_clutch_900		predicted to be: bags_clutch
+bags_hobo_1		predicted to be: bags_hobo
+bags_clutch_500		predicted to be: bags_clutch
+womens_pumps_200	predicted to be: women_pumps
+bags_hobo_500		predicted to be: bags_hobo
+womens_pumps_700	predicted to be: women_pumps
+womens_flats_1		predicted to be: womens_flats
+womens_pumps_800	predicted to be: women_pumps
+womens_pumps_100	predicted to be: women_pumps
+womens_pumps_600	predicted to be: women_pumps
+bags_hobo_300		predicted to be: bags_hobo
+womens_flats_500	predicted to be: womens_flats
+bags_clutch_1		predicted to be: bags_clutch
+womens_pumps_400	predicted to be: women_pumps
+womens_pumps_300	predicted to be: women_pumps

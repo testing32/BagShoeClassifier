@@ -1,0 +1,245 @@
+PHASE 1 -
+Image Results for /home/testing32/Downloads/shopping/queryimages/img_bags_clutch_200.jpg
+1: score=32473 : /home/testing32/Downloads/shopping/images/img_bags_clutch_164.jpg
+2: score=32473 : /home/testing32/Downloads/shopping/images/img_bags_clutch_169.jpg
+3: score=33743 : /home/testing32/Downloads/shopping/images/img_bags_clutch_171.jpg
+4: score=33743 : /home/testing32/Downloads/shopping/images/img_bags_clutch_167.jpg
+5: score=33997 : /home/testing32/Downloads/shopping/images/img_bags_hobo_452.jpg
+6: score=34137 : /home/testing32/Downloads/shopping/images/img_bags_clutch_130.jpg
+7: score=34212 : /home/testing32/Downloads/shopping/images/img_bags_hobo_766.jpg
+8: score=34395 : /home/testing32/Downloads/shopping/images/img_bags_hobo_928.jpg
+9: score=34588 : /home/testing32/Downloads/shopping/images/img_bags_hobo_180.jpg
+10: score=34730 : /home/testing32/Downloads/shopping/images/img_bags_clutch_178.jpg
+
+Image Results for /home/testing32/Downloads/shopping/queryimages/img_bags_hobo_500.jpg
+1: score=36270 : /home/testing32/Downloads/shopping/images/img_bags_hobo_931.jpg
+2: score=36428 : /home/testing32/Downloads/shopping/images/img_bags_hobo_542.jpg
+3: score=37393 : /home/testing32/Downloads/shopping/images/img_bags_hobo_208.jpg
+4: score=37546 : /home/testing32/Downloads/shopping/images/img_bags_hobo_183.jpg
+5: score=37601 : /home/testing32/Downloads/shopping/images/img_bags_hobo_473.jpg
+6: score=37852 : /home/testing32/Downloads/shopping/images/img_bags_hobo_822.jpg
+7: score=37913 : /home/testing32/Downloads/shopping/images/img_bags_hobo_117.jpg
+8: score=38209 : /home/testing32/Downloads/shopping/images/img_bags_hobo_437.jpg
+9: score=38214 : /home/testing32/Downloads/shopping/images/img_bags_hobo_27.jpg
+10: score=38265 : /home/testing32/Downloads/shopping/images/img_bags_hobo_52.jpg
+
+Image Results for /home/testing32/Downloads/shopping/queryimages/img_womens_pumps_1.jpg
+1: score=25243 : /home/testing32/Downloads/shopping/images/img_womens_pumps_602.jpg
+2: score=25477 : /home/testing32/Downloads/shopping/images/img_womens_pumps_644.jpg
+3: score=25729 : /home/testing32/Downloads/shopping/images/img_womens_pumps_198.jpg
+4: score=26132 : /home/testing32/Downloads/shopping/images/img_womens_pumps_83.jpg
+5: score=26494 : /home/testing32/Downloads/shopping/images/img_womens_pumps_589.jpg
+6: score=26571 : /home/testing32/Downloads/shopping/images/img_womens_flats_718.jpg
+7: score=26581 : /home/testing32/Downloads/shopping/images/img_womens_pumps_852.jpg
+8: score=26609 : /home/testing32/Downloads/shopping/images/img_womens_pumps_559.jpg
+9: score=26811 : /home/testing32/Downloads/shopping/images/img_womens_pumps_373.jpg
+10: score=26911 : /home/testing32/Downloads/shopping/images/img_womens_pumps_805.jpg
+
+Image Results for /home/testing32/Downloads/shopping/queryimages/img_womens_flats_800.jpg
+1: score=28466 : /home/testing32/Downloads/shopping/images/img_bags_clutch_206.jpg
+2: score=28578 : /home/testing32/Downloads/shopping/images/img_womens_flats_705.jpg
+3: score=28920 : /home/testing32/Downloads/shopping/images/img_womens_flats_536.jpg
+4: score=29050 : /home/testing32/Downloads/shopping/images/img_womens_flats_738.jpg
+5: score=29191 : /home/testing32/Downloads/shopping/images/img_womens_pumps_530.jpg
+6: score=29435 : /home/testing32/Downloads/shopping/images/img_bags_clutch_559.jpg
+7: score=29487 : /home/testing32/Downloads/shopping/images/img_bags_clutch_978.jpg
+8: score=29531 : /home/testing32/Downloads/shopping/images/img_womens_flats_897.jpg
+9: score=29580 : /home/testing32/Downloads/shopping/images/img_womens_flats_942.jpg
+10: score=29846 : /home/testing32/Downloads/shopping/images/img_bags_hobo_613.jpg
+
+Image Results for /home/testing32/Downloads/shopping/queryimages/img_womens_pumps_300.jpg
+1: score=37736 : /home/testing32/Downloads/shopping/images/img_womens_flats_334.jpg
+2: score=38026 : /home/testing32/Downloads/shopping/images/img_womens_flats_107.jpg
+3: score=38082 : /home/testing32/Downloads/shopping/images/img_womens_flats_312.jpg
+4: score=38098 : /home/testing32/Downloads/shopping/images/img_womens_flats_556.jpg
+5: score=38191 : /home/testing32/Downloads/shopping/images/img_womens_flats_272.jpg
+6: score=38491 : /home/testing32/Downloads/shopping/images/img_womens_flats_482.jpg
+7: score=38568 : /home/testing32/Downloads/shopping/images/img_womens_flats_498.jpg
+8: score=38572 : /home/testing32/Downloads/shopping/images/img_womens_flats_301.jpg
+9: score=38685 : /home/testing32/Downloads/shopping/images/img_womens_pumps_943.jpg
+10: score=38713 : /home/testing32/Downloads/shopping/images/img_womens_pumps_450.jpg
+
+
+PHASE 2 -
+Text Results for /home/testing32/Downloads/shopping/queryimages/descr_bags_clutch_200.txt
+1: score=0.0 : /home/testing32/Downloads/shopping/images/descr_bags_clutch_178.txt
+2: score=0.0816180844735 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_605.txt
+3: score=0.082122260669 : /home/testing32/Downloads/shopping/images/descr_bags_clutch_159.txt
+4: score=0.082122260669 : /home/testing32/Downloads/shopping/images/descr_bags_clutch_70.txt
+5: score=0.082122260669 : /home/testing32/Downloads/shopping/images/descr_bags_clutch_80.txt
+6: score=0.082122260669 : /home/testing32/Downloads/shopping/images/descr_bags_clutch_47.txt
+7: score=0.082122260669 : /home/testing32/Downloads/shopping/images/descr_bags_clutch_130.txt
+8: score=0.082122260669 : /home/testing32/Downloads/shopping/images/descr_bags_clutch_84.txt
+9: score=0.082122260669 : /home/testing32/Downloads/shopping/images/descr_bags_clutch_67.txt
+10: score=0.082122260669 : /home/testing32/Downloads/shopping/images/descr_bags_clutch_86.txt
+
+Text Results for /home/testing32/Downloads/shopping/queryimages/descr_bags_hobo_500.txt
+1: score=0.000718060402745 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_473.txt
+2: score=0.0375728559081 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_686.txt
+3: score=0.0376693235834 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_605.txt
+4: score=0.040306106708 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_801.txt
+5: score=0.0408106691703 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_65.txt
+6: score=0.0409800413309 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_391.txt
+7: score=0.0411192438992 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_902.txt
+8: score=0.0413672511362 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_352.txt
+9: score=0.0416373129887 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_815.txt
+10: score=0.0421463934977 : /home/testing32/Downloads/shopping/images/descr_bags_hobo_387.txt
+
+Text Results for /home/testing32/Downloads/shopping/queryimages/descr_womens_pumps_1.txt
+1: score=0.0482276047674 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_554.txt
+2: score=0.0482276047674 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_571.txt
+3: score=0.0482276047674 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_578.txt
+4: score=0.0482807093426 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_602.txt
+5: score=0.0551557093426 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_589.txt
+6: score=0.0552138066556 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_445.txt
+7: score=0.0552138066556 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_54.txt
+8: score=0.0552138066556 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_198.txt
+9: score=0.0552138066556 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_617.txt
+10: score=0.0597415436763 : /home/testing32/Downloads/shopping/images/descr_womens_flats_718.txt
+
+Text Results for /home/testing32/Downloads/shopping/queryimages/descr_womens_flats_800.txt
+1: score=0.0526192215381 : /home/testing32/Downloads/shopping/images/descr_womens_flats_950.txt
+2: score=0.0535714285714 : /home/testing32/Downloads/shopping/images/descr_womens_flats_560.txt
+3: score=0.0535714285714 : /home/testing32/Downloads/shopping/images/descr_womens_flats_475.txt
+4: score=0.0535714285714 : /home/testing32/Downloads/shopping/images/descr_womens_flats_651.txt
+5: score=0.0548276509815 : /home/testing32/Downloads/shopping/images/descr_womens_flats_177.txt
+6: score=0.0548668503214 : /home/testing32/Downloads/shopping/images/descr_womens_flats_284.txt
+7: score=0.054907004353 : /home/testing32/Downloads/shopping/images/descr_womens_flats_817.txt
+8: score=0.0550193050193 : /home/testing32/Downloads/shopping/images/descr_womens_flats_350.txt
+9: score=0.0553442284212 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_538.txt
+10: score=0.0555555555556 : /home/testing32/Downloads/shopping/images/descr_womens_flats_429.txt
+
+Text Results for /home/testing32/Downloads/shopping/queryimages/descr_womens_pumps_300.txt
+1: score=0.0417337215674 : /home/testing32/Downloads/shopping/images/descr_womens_flats_678.txt
+2: score=0.0417337215674 : /home/testing32/Downloads/shopping/images/descr_womens_flats_570.txt
+3: score=0.0438276113952 : /home/testing32/Downloads/shopping/images/descr_womens_flats_786.txt
+4: score=0.0438276113952 : /home/testing32/Downloads/shopping/images/descr_womens_flats_782.txt
+5: score=0.0441725509293 : /home/testing32/Downloads/shopping/images/descr_womens_flats_409.txt
+6: score=0.0441725509293 : /home/testing32/Downloads/shopping/images/descr_womens_flats_439.txt
+7: score=0.0448110010137 : /home/testing32/Downloads/shopping/images/descr_womens_flats_850.txt
+8: score=0.0448110010137 : /home/testing32/Downloads/shopping/images/descr_womens_flats_862.txt
+9: score=0.045288531775 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_432.txt
+10: score=0.045288531775 : /home/testing32/Downloads/shopping/images/descr_womens_pumps_461.txt
+
+PHASE 3 - 
+Combined Results for /home/testing32/Downloads/shopping/queryimages/img_bags_clutch_200.jpg
+1: score=0.06946 : bags_clutch_178
+2: score=0.147068096424 : bags_clutch_169
+3: score=0.147068096424 : bags_clutch_164
+4: score=0.149608096424 : bags_clutch_171
+5: score=0.149608096424 : bags_clutch_167
+6: score=0.150396096424 : bags_clutch_130
+7: score=0.152880096424 : bags_clutch_159
+8: score=0.152880096424 : bags_clutch_156
+9: score=0.154870096424 : bags_clutch_76
+10: score=0.155090096424 : bags_clutch_162
+
+Combined Results for /home/testing32/Downloads/shopping/queryimages/img_bags_hobo_500.jpg
+1: score=0.0759200589666 : bags_hobo_473
+2: score=0.124234026096 : bags_hobo_801
+3: score=0.124268890118 : bags_hobo_52
+4: score=0.125310682257 : bags_hobo_172
+5: score=0.125321258164 : bags_hobo_651
+6: score=0.125511248245 : bags_hobo_605
+7: score=0.126112309205 : bags_hobo_387
+8: score=0.126575761169 : bags_hobo_231
+9: score=0.126645168402 : bags_hobo_352
+10: score=0.12695390796 : bags_hobo_571
+
+Combined Results for /home/testing32/Downloads/shopping/queryimages/img_womens_pumps_1.jpg
+1: score=0.0987666127811 : womens_pumps_602
+2: score=0.106671696228 : womens_pumps_198
+3: score=0.108143599031 : womens_pumps_589
+4: score=0.109603508312 : womens_pumps_554
+5: score=0.109603508312 : womens_pumps_571
+6: score=0.109603508312 : womens_pumps_578
+7: score=0.112883424193 : womens_flats_718
+8: score=0.116097845829 : womens_pumps_373
+9: score=0.117221475523 : womens_pumps_559
+10: score=0.119423696228 : womens_pumps_54
+
+Combined Results for /home/testing32/Downloads/shopping/queryimages/img_womens_flats_800.jpg
+1: score=0.116455690476 : bags_clutch_206
+2: score=0.120782637713 : bags_hobo_851
+3: score=0.124220348245 : womens_flats_419
+4: score=0.125068348245 : womens_flats_455
+5: score=0.125287099888 : womens_flats_942
+6: score=0.126058348245 : womens_flats_435
+7: score=0.126408989909 : bags_clutch_480
+8: score=0.126443229765 : bags_clutch_172
+9: score=0.126565936508 : bags_clutch_194
+10: score=0.126736350088 : bags_clutch_739
+
+Combined Results for /home/testing32/Downloads/shopping/queryimages/img_womens_pumps_300.jpg
+1: score=0.1252716381 : womens_flats_570
+2: score=0.125340462584 : womens_flats_439
+3: score=0.126580462584 : womens_flats_409
+4: score=0.126589933478 : womens_flats_312
+5: score=0.127225961083 : womens_flats_474
+6: score=0.127923227809 : womens_flats_579
+7: score=0.127945056405 : womens_flats_272
+8: score=0.128619227809 : womens_flats_664
+9: score=0.128863206919 : womens_flats_588
+10: score=0.128864441198 : womens_flats_309
+
+
+PART 4 -
+Part Four Results for /home/testing32/Downloads/shopping/queryimages/img_bags_clutch_200.jpg
+1: score=0.22704984364 : /home/testing32/Downloads/shopping/images/img_bags_clutch_178.jpg
+2: score=0.295440990628 : /home/testing32/Downloads/shopping/images/img_bags_clutch_169.jpg
+3: score=0.295440990628 : /home/testing32/Downloads/shopping/images/img_bags_clutch_164.jpg
+4: score=0.302048760308 : /home/testing32/Downloads/shopping/images/img_bags_clutch_171.jpg
+5: score=0.302048760308 : /home/testing32/Downloads/shopping/images/img_bags_clutch_167.jpg
+6: score=0.303611539327 : /home/testing32/Downloads/shopping/images/img_bags_clutch_130.jpg
+7: score=0.307113641799 : /home/testing32/Downloads/shopping/images/img_bags_clutch_162.jpg
+8: score=0.307113641799 : /home/testing32/Downloads/shopping/images/img_bags_clutch_163.jpg
+9: score=0.309161244891 : /home/testing32/Downloads/shopping/images/img_bags_hobo_86.jpg
+10: score=0.309436066246 : /home/testing32/Downloads/shopping/images/img_bags_clutch_76.jpg
+
+Part Four Results for /home/testing32/Downloads/shopping/queryimages/img_bags_hobo_500.jpg
+1: score=0.226349280443 : /home/testing32/Downloads/shopping/images/img_bags_hobo_473.jpg
+2: score=0.273434906917 : /home/testing32/Downloads/shopping/images/img_bags_hobo_52.jpg
+3: score=0.276095239775 : /home/testing32/Downloads/shopping/images/img_bags_hobo_931.jpg
+4: score=0.278646209496 : /home/testing32/Downloads/shopping/images/img_bags_hobo_27.jpg
+5: score=0.279615639009 : /home/testing32/Downloads/shopping/images/img_bags_hobo_437.jpg
+6: score=0.280156992354 : /home/testing32/Downloads/shopping/images/img_bags_hobo_682.jpg
+7: score=0.280162255317 : /home/testing32/Downloads/shopping/images/img_bags_hobo_82.jpg
+8: score=0.28043754789 : /home/testing32/Downloads/shopping/images/img_bags_hobo_152.jpg
+9: score=0.28056381096 : /home/testing32/Downloads/shopping/images/img_bags_hobo_5.jpg
+10: score=0.280837078505 : /home/testing32/Downloads/shopping/images/img_bags_hobo_231.jpg
+
+Part Four Results for /home/testing32/Downloads/shopping/queryimages/img_womens_pumps_1.jpg
+1: score=0.24924835953 : /home/testing32/Downloads/shopping/images/img_womens_pumps_602.jpg
+2: score=0.258894748515 : /home/testing32/Downloads/shopping/images/img_womens_pumps_589.jpg
+3: score=0.261035105015 : /home/testing32/Downloads/shopping/images/img_womens_pumps_198.jpg
+4: score=0.261089608738 : /home/testing32/Downloads/shopping/images/img_womens_pumps_83.jpg
+5: score=0.261741911054 : /home/testing32/Downloads/shopping/images/img_womens_flats_718.jpg
+6: score=0.262085528844 : /home/testing32/Downloads/shopping/images/img_womens_pumps_373.jpg
+7: score=0.265035632238 : /home/testing32/Downloads/shopping/images/img_womens_flats_318.jpg
+8: score=0.266024651518 : /home/testing32/Downloads/shopping/images/img_womens_pumps_805.jpg
+9: score=0.267464230639 : /home/testing32/Downloads/shopping/images/img_womens_pumps_569.jpg
+10: score=0.268691486765 : /home/testing32/Downloads/shopping/images/img_womens_flats_753.jpg
+
+Part Four Results for /home/testing32/Downloads/shopping/queryimages/img_womens_flats_800.jpg
+1: score=0.275919573416 : /home/testing32/Downloads/shopping/images/img_womens_flats_455.jpg
+2: score=0.277963067397 : /home/testing32/Downloads/shopping/images/img_womens_flats_81.jpg
+3: score=0.278869605724 : /home/testing32/Downloads/shopping/images/img_womens_flats_942.jpg
+4: score=0.281585763675 : /home/testing32/Downloads/shopping/images/img_womens_flats_435.jpg
+5: score=0.282057519976 : /home/testing32/Downloads/shopping/images/img_womens_flats_419.jpg
+6: score=0.282975204149 : /home/testing32/Downloads/shopping/images/img_womens_flats_602.jpg
+7: score=0.284922069775 : /home/testing32/Downloads/shopping/images/img_womens_pumps_463.jpg
+8: score=0.28525186575 : /home/testing32/Downloads/shopping/images/img_womens_flats_912.jpg
+9: score=0.286157231752 : /home/testing32/Downloads/shopping/images/img_womens_flats_108.jpg
+10: score=0.286179820729 : /home/testing32/Downloads/shopping/images/img_womens_flats_867.jpg
+
+Part Four Results for /home/testing32/Downloads/shopping/queryimages/img_womens_pumps_300.jpg
+1: score=0.284895935681 : /home/testing32/Downloads/shopping/images/img_womens_flats_265.jpg
+2: score=0.28547274049 : /home/testing32/Downloads/shopping/images/img_womens_flats_312.jpg
+3: score=0.286008223819 : /home/testing32/Downloads/shopping/images/img_womens_pumps_450.jpg
+4: score=0.286440466362 : /home/testing32/Downloads/shopping/images/img_womens_flats_588.jpg
+5: score=0.286791301336 : /home/testing32/Downloads/shopping/images/img_womens_flats_781.jpg
+6: score=0.287572439098 : /home/testing32/Downloads/shopping/images/img_womens_flats_409.jpg
+7: score=0.287617041269 : /home/testing32/Downloads/shopping/images/img_womens_pumps_595.jpg
+8: score=0.287617041269 : /home/testing32/Downloads/shopping/images/img_womens_pumps_551.jpg
+9: score=0.288344162813 : /home/testing32/Downloads/shopping/images/img_womens_flats_664.jpg
+10: score=0.288639308307 : /home/testing32/Downloads/shopping/images/img_womens_flats_687.jpg

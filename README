@@ -1,0 +1,20 @@
+HW #1 - Kyle Miller
+
+You need the following python libraries:
+numpy
+cpickle (part 4)
+theano (If you want to create your own NN for part 4)
+opencv with python bindings (color histograms for part 4)
+
+How to run:
+
+In __main__ there is are commented out lines which can be easily replaced
+with your arguments for each of the parts
+
+The following functions solve each of the corresponding parts
+
+Part 1 - queryImage(queryImage, dictionaryDir)
+Part 2 - queryDescription(queryText, dictionaryDir)
+Part 3 - queryCombined(queryImage, queryText, dictionaryDir)
+Part 4 - NN model generated in myconvnet.py. The model is then pickled and used by hw1. 
+	partFour(queryImage, queryText, dictionaryDir, modelName)
